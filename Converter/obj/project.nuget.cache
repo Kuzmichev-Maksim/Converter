@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "venvTiutxoCD1Uk6UQF32cSGzcp50Q/MU18To530jve5oOEih4KtloroSrsSlRiOgBonbzSjrKiD0nZ6AxZxYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksi\\source\\repos\\Практическая 6 - Текстовый конвертер\\Converter\\Converter\\Converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

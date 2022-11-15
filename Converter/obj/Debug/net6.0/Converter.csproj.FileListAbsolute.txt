@@ -1,0 +1,17 @@
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\Converter.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\Converter.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\Converter.AssemblyInfo.cs
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\bin\Debug\net6.0\Converter.exe
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\bin\Debug\net6.0\Converter.deps.json
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\bin\Debug\net6.0\Converter.runtimeconfig.json
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\bin\Debug\net6.0\Converter.dll
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\bin\Debug\net6.0\Converter.pdb
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\Converter.csproj.CopyComplete
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\Converter.dll
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\refint\Converter.dll
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\Converter.pdb
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\Converter.genruntimeconfig.cache
+C:\Users\maksi\source\repos\Практическая 6 - Текстовый конвертер\Converter\Converter\obj\Debug\net6.0\ref\Converter.dll
